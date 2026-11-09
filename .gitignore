@@ -1,0 +1,11 @@
+.obsidian/
+data.json
+metadata.json
+.env
+.env.*
+*.backup*
+*.before-fix
+*.log
+*.zip
+*.pem
+*.key
